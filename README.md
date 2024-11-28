@@ -1,1 +1,2 @@
-# CS4096-AI4Games-FinalProj
+# CS4096-Artificial-Intelligence-For-Games-Project-2024
+
